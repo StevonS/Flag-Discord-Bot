@@ -11,24 +11,19 @@ Flag can be added to the /Flags directory as .svg files.
 
 
 ### Installation:
-
-Install the repository 
 ```bash
+#Clone the repository 
 git clone https://github.com/StevonS/Flag-Discord-Bot.git
-```
-Change into the Directory
-```bash
+
+#Change into the Directory
 cd Flag-Discord-Bot/
-```
-Make the install.sh file executable
-```bash
+
+#Make the install.sh file executable
 chmod +x install.sh
-```
-Run the sh file
-```bash
+
+#Run the sh file
 ./install.sh
-```
-Run the script
-```bash
+
+#Run the script
 python3 flagbot.py
 ```
