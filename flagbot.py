@@ -66,4 +66,4 @@ async def on_message(message):
             await message.channel.send("Incorrect")
 
 
-bot.run('MTEwOTE0NDQ2MDEyMzcwOTYwMA.GSyz6w.2AMa4k-nckBvGDyV6RyYdA8Zw5ob_JhqQ28P-A')
+bot.run('Your Token Here')
