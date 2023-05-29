@@ -7,10 +7,10 @@ Flag can be added to the /Flags directory as .svg files.
 *IMPORTANT: File names MUST be in the following format:  If the flag is **North Macedonia** for example, the file would be called **northmacedonia.svg***
 
 
-# Getting Started
+## Getting Started
 
 
-## Installation:
+### Installation:
 
 ```bash
 git clone https://github.com/StevonS/Flag-Discord-Bot.git
