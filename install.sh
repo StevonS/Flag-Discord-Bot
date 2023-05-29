@@ -3,3 +3,4 @@ pip install cairosvg
 pip install py-cord
 unzip Flags.zip
 rm Flags.zip
+mkdir Pngs
