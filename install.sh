@@ -1,3 +1,4 @@
+sudo su
 apt install unzip
 apt install pip
 apt install python3
