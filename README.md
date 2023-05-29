@@ -17,14 +17,12 @@ git clone https://github.com/StevonS/Flag-Discord-Bot.git
 ```
 
 ```bash
-sudo apt install unzip
-```
-
-```bash
 cd Flag-Discord-Bot/
 ```
-
 ```bash
-unzip Flags.zip
+./install.sh
 ```
 
+```bash
+python3 flagbot.py
+```
