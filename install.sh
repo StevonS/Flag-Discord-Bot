@@ -1,9 +1,5 @@
-sudo su
-apt install unzip
-apt install pip
-apt install python3
+sudo apt install unzip && sudo apt install pip && sudo apt install python3 && sudo apt update && sudo apt upgrade
 pip install cairosvg
 pip install py-cord
 unzip Flags.zip
-apt update && apt upgrade
 rm Flags.zip
