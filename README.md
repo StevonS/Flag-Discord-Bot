@@ -6,12 +6,25 @@ Discord bot built on [py-cord](https://docs.pycord.dev/en/stable/index.html)
 Flag can be added to the /Flags directory as .svg files. 
 *IMPORTANT: File names MUST be in the following format:  If the flag is **North Macedonia** for example, the file would be called **northmacedonia.svg***
 
-## Installion:
+
+# Getting Started
+
+
+## Installation:
 
 ```bash
 git clone https://github.com/StevonS/Flag-Discord-Bot.git
 ```
 
 ```bash
+sudo apt install unzip
+```
+
+```bash
 cd Flag-Discord-Bot/
 ```
+
+```bash
+unzip Flags.zip
+```
+
